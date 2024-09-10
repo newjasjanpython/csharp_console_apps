@@ -1,0 +1,15 @@
+E:\dot net\console_apps\TheCalculatorApp\bin\Debug\net8.0\TheCalculatorApp.exe
+E:\dot net\console_apps\TheCalculatorApp\bin\Debug\net8.0\TheCalculatorApp.deps.json
+E:\dot net\console_apps\TheCalculatorApp\bin\Debug\net8.0\TheCalculatorApp.runtimeconfig.json
+E:\dot net\console_apps\TheCalculatorApp\bin\Debug\net8.0\TheCalculatorApp.dll
+E:\dot net\console_apps\TheCalculatorApp\bin\Debug\net8.0\TheCalculatorApp.pdb
+E:\dot net\console_apps\TheCalculatorApp\obj\Debug\net8.0\TheCalculatorApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\dot net\console_apps\TheCalculatorApp\obj\Debug\net8.0\TheCalculatorApp.AssemblyInfoInputs.cache
+E:\dot net\console_apps\TheCalculatorApp\obj\Debug\net8.0\TheCalculatorApp.AssemblyInfo.cs
+E:\dot net\console_apps\TheCalculatorApp\obj\Debug\net8.0\TheCalculatorApp.csproj.CoreCompileInputs.cache
+E:\dot net\console_apps\TheCalculatorApp\obj\Debug\net8.0\TheCalculatorApp.sourcelink.json
+E:\dot net\console_apps\TheCalculatorApp\obj\Debug\net8.0\TheCalculatorApp.dll
+E:\dot net\console_apps\TheCalculatorApp\obj\Debug\net8.0\refint\TheCalculatorApp.dll
+E:\dot net\console_apps\TheCalculatorApp\obj\Debug\net8.0\TheCalculatorApp.pdb
+E:\dot net\console_apps\TheCalculatorApp\obj\Debug\net8.0\TheCalculatorApp.genruntimeconfig.cache
+E:\dot net\console_apps\TheCalculatorApp\obj\Debug\net8.0\ref\TheCalculatorApp.dll

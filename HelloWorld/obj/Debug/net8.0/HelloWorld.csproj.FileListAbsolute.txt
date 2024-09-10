@@ -1,0 +1,15 @@
+E:\dot net\console_apps\HelloWorld\bin\Debug\net8.0\HelloWorld.exe
+E:\dot net\console_apps\HelloWorld\bin\Debug\net8.0\HelloWorld.deps.json
+E:\dot net\console_apps\HelloWorld\bin\Debug\net8.0\HelloWorld.runtimeconfig.json
+E:\dot net\console_apps\HelloWorld\bin\Debug\net8.0\HelloWorld.dll
+E:\dot net\console_apps\HelloWorld\bin\Debug\net8.0\HelloWorld.pdb
+E:\dot net\console_apps\HelloWorld\obj\Debug\net8.0\HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+E:\dot net\console_apps\HelloWorld\obj\Debug\net8.0\HelloWorld.AssemblyInfoInputs.cache
+E:\dot net\console_apps\HelloWorld\obj\Debug\net8.0\HelloWorld.AssemblyInfo.cs
+E:\dot net\console_apps\HelloWorld\obj\Debug\net8.0\HelloWorld.csproj.CoreCompileInputs.cache
+E:\dot net\console_apps\HelloWorld\obj\Debug\net8.0\HelloWorld.sourcelink.json
+E:\dot net\console_apps\HelloWorld\obj\Debug\net8.0\HelloWorld.dll
+E:\dot net\console_apps\HelloWorld\obj\Debug\net8.0\refint\HelloWorld.dll
+E:\dot net\console_apps\HelloWorld\obj\Debug\net8.0\HelloWorld.pdb
+E:\dot net\console_apps\HelloWorld\obj\Debug\net8.0\HelloWorld.genruntimeconfig.cache
+E:\dot net\console_apps\HelloWorld\obj\Debug\net8.0\ref\HelloWorld.dll
